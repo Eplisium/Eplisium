@@ -146,16 +146,14 @@ class Eplisium:
 <div align="center">
 
 <!-- Row 1: Stats + Streak side by side, full width -->
-<img src="https://github-readme-stats.vercel.app/api?username=Eplisium&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9&border_color=30363d&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eplisium&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9&border_color=30363d&count_private=true&include_all_commits=true" width="49%" />
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eplisium&theme=tokyonight&hide_border=false&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&border=30363d&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" />
 
 <br/>
 
-<!-- Row 2: Top Languages (donut chart) + Trophies side by side -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eplisium&layout=donut&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_color=30363d&count_private=true&langs_count=8" width="35%" />
-&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=Eplisium&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A" width="60%" />
+<!-- Row 2: Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eplisium&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_color=30363d&count_private=true&langs_count=8" width="49%" />
 
 </div>
 
