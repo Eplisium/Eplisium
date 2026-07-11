@@ -145,35 +145,39 @@ class Eplisium:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eplisium&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" />
+<!-- Row 1: Stats + Streak side by side, full width -->
+<img src="https://github-readme-stats.vercel.app/api?username=Eplisium&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9&border_color=30363d&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eplisium&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eplisium&theme=tokyonight&hide_border=false&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&border=30363d&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eplisium&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&count_private=true" width="42%" />
+<!-- Row 2: Top Languages (donut chart) + Trophies side by side -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eplisium&layout=donut&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_color=30363d&count_private=true&langs_count=8" width="35%" />
+&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=Eplisium&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A" width="60%" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📈 Contribution Calendar
 
 <div align="center">
 
-![Starstruck](https://img.shields.io/badge/⭐_Starstruck-facc15?style=for-the-badge&logo=github&logoColor=black)
-![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
-![YOLO](https://img.shields.io/badge/🎲_YOLO-ef4444?style=for-the-badge&logo=github&logoColor=white)
+<!-- Contribution calendar snake animation -->
+<a href="https://github.com/Eplisium">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eplisium/Eplisium/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eplisium/Eplisium/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eplisium/Eplisium/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</a>
 
-</div>
+<br/>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Eplisium's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eplisium&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=c9d1d9&area=true)](https://github.com/Eplisium)
+<!-- Activity Graph -->
+[![Eplisium's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eplisium&theme=tokyo-night&hide_border=false&bg_color=0d1117&color=7c3aed&line=7c3aed&point=c9d1d9&area=true&area_color=7c3aed&border_color=30363d)](https://github.com/Eplisium)
 
 </div>
 
