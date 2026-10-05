@@ -147,6 +147,8 @@ Comprehensive Minecraft server knowledge base as an agent skill: Paper, Fabric, 
 
 ## 🐍 Contribution Snake
 
+<sub>Eating my commits since 2026, refreshed every 12 hours.</sub>
+
 <div align="center">
 
 <a href="https://github.com/Eplisium">
@@ -156,10 +158,6 @@ Comprehensive Minecraft server knowledge base as an agent skill: Paper, Fabric, 
     <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/Eplisium/Eplisium/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </a>
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eplisium&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=c9d1d9&area=true&area_color=a78bfa&hide_border=true)](https://github.com/Eplisium)
 
 </div>
 
